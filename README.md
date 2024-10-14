@@ -24,7 +24,7 @@ When the picture analysis is complete, a message is shown on the display with th
 The RGB led also shows a different colour depending on the analysis result: 1 (0% probability) is green, 2 (33%) is orange, 3 (66%) is violet, 4 (100%) is red.
 
 ESP32 and other devices conenctions are in the PCB directory.
-Some pictures of the stabilized camera structure are also in the PCB directory.
+Some pictures and videos of the stabilized camera structure are available in the media directory.
 
 
 # Required Libraries
