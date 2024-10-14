@@ -36,6 +36,7 @@ Some pictures of the stabilized camera structure are also in the PCB directory.
 
 ## Credits and references
 Created by [WizLab.it](https://www.wizlab.it/)
+
 GitHub: [wizlab-it/wiz-horizon-observer](https://github.com/wizlab-it/wiz-horizon-observer/)
 
 
